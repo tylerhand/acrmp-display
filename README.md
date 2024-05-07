@@ -31,7 +31,7 @@ currently maintained, however, it does the job.
 
 
 To display the page, just select the app from the homepage. It looks like this:
-![ClickSimply Logo](clicksimply-logo.jpg)
+<img src="clicksimply-logo.jpg" alt="ClickSimply Logo" width="50"/>
 
 
 **Google TV:** As of leaving, this has not been set up yet. Just send a link to this page to IT, and they'll know what to do.

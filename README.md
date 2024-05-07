@@ -13,8 +13,8 @@ Feel free to make changes to this repository to edit the display in the resource
 The display in the resource room is simply this webpage. There is a javascript function in the <head> that 
 makes the page reload itself every two hours. To change this interval, see the comment below the function in 
 the <script> tags and change the number in the function accordingly. The charts/quotes are daily settlement 
-prices - for shorter timeframes, TradingView requires a subscription (different from the ones for their regular 
-service).
+prices from TradingView (as are the widgets) - for shorter timeframes, TradingView requires a subscription 
+(different from the ones for their regular service).
 
 
 To add this to a new smart TV, you need to install a kiosk app that allows you to display a webpage. 
@@ -31,7 +31,7 @@ currently maintained, however, it does the job.
 
 
 To display the page, just select the app from the homepage. It looks like this:
-[![ClickSimply Logo](clicksimply-logo.jpg)]
+![ClickSimply Logo](clicksimply-logo.jpg)
 
 
 **Google TV:** As of leaving, this has not been set up yet. Just send a link to this page to IT, and they'll know what to do.

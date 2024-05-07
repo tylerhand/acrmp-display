@@ -31,6 +31,8 @@ currently maintained, however, it does the job.
 
 
 To display the page, just select the app from the homepage. It looks like this:
+
+
 <img src="clicksimply-logo.jpg" alt="ClickSimply Logo" width="50"/>
 
 
